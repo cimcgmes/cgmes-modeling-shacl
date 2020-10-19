@@ -244,5 +244,5 @@ The above validation report shows that the model is compliant with the rule. [sh
 
 
 ```
-For more detailed explanation about this topic do not hesitate contact us: cimcgmes@gmail.com 
+For more detailed explanation about this topic do not hesitate to contact us: cimcgmes@gmail.com 
 ```
